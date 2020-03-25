@@ -1,4 +1,4 @@
 baseURL = "https://pedantic-tesla-863752.netlify.com/"
 languageCode = "en-us"
 title = "Mr Hugo"
-theme = "hugo-theme-cleanwhite"
+theme = "casper-cms-template"
